@@ -6,7 +6,7 @@
   <link href="https://gitee.com/layer-liu/blog.git/atom.xml" rel="self"/>
   
   <link href="https://gitee.com/layer-liu/blog.git/"/>
-  <updated>2025-08-05T17:55:12.464Z</updated>
+  <updated>2025-08-06T02:33:43.580Z</updated>
   <id>https://gitee.com/layer-liu/blog.git/</id>
   
   <author>
@@ -21,14 +21,15 @@
     <link href="https://gitee.com/layer-liu/blog.git/2025/08/06/test/"/>
     <id>https://gitee.com/layer-liu/blog.git/2025/08/06/test/</id>
     <published>2025-08-05T17:33:32.000Z</published>
-    <updated>2025-08-05T17:55:12.464Z</updated>
+    <updated>2025-08-06T02:33:43.580Z</updated>
     
-    <content type="html"><![CDATA[<p>testtest</p>]]></content>
+    <content type="html"><![CDATA[<p>testtest</p><p>换了电脑重新部署，总是出问题，5555，活着好难~~</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;testtest&lt;/p&gt;
+&lt;p&gt;换了电脑重新部署，总是出问题，5555，活着好难~~&lt;/p&gt;
 </summary>
       
     
